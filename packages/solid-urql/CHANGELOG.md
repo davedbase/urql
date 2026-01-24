@@ -1,5 +1,12 @@
 # @urql/solid
 
+## 1.0.1
+
+### Patch Changes
+
+- Use `@solid-primitives/utils` for `access` and `MaybeAccessor` utilities instead of custom implementations. This aligns the package with standard Solid ecosystem conventions
+  Submitted by [@davedbase](https://github.com/davedbase) (See [`120deb0`](https://github.com/urql-graphql/urql/commit/120deb0d1e5daafa7e811684dbe51f7553e46a5b))
+
 ## 1.0.0
 
 ### Patch Changes
